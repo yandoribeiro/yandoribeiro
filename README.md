@@ -1,4 +1,4 @@
-## Olá 👋 sou o Yan
+## 
 
 - 📚 estudante de ciência da computação
 - 💻 iniciando na programação
