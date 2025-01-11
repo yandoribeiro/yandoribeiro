@@ -1,9 +1,14 @@
-## 
+ ## Sobre mim:
 
-- 📚 estudante de ciência da computação
+- 👤 tenho 18 anos
+- 📚 estudo de ciência da computação
 - 💻 iniciando na programação
 - 🦉 faço parte da comunidade ISMART
+- 🎮 gosto de jogar com meus amigos e ver filmes
 
+  ##
+
+## 📊 GitHub stats:
 <div>
     <a hfref="https://github.com/yandoribeiro">
       <img width=42%" src="https://github-readme-stats.vercel.app/api?username=yandoribeiro&show_icons=true&theme=dark&inclue_all_commits=true&count_private=true"/>
@@ -12,5 +17,8 @@
 
 ## 
 
+<div>
+  <a   
+</div>
  
     
