@@ -8,6 +8,7 @@
 
   ##
 
+<a href="https://github.com/MiguelClaret">Miguel Claret</a>: meu buddie e amigo 
 ## 📊 GitHub stats:
 <div>
     <a hfref="https://github.com/yandoribeiro">
