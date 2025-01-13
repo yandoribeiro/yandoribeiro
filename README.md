@@ -6,10 +6,9 @@
 - 🦉 faço parte da comunidade ISMART
 - 🎮 gosto de jogar com meus amigos e ver filmes
 
-  ##
-
 <a href="https://github.com/MiguelClaret">Miguel Claret</a>: meu buddie e amigo 
 
+##
 
 ## 📊 GitHub stats:
 <div>
